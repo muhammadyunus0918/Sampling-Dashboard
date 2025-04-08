@@ -9,7 +9,7 @@ Visualize data in interactive 2D & 3D plots (scatter, boxplot, heatmap)
 
 Display sampling points on an interactive map
 
-Perform ore classification predictions (if a trained ML model is available)
+Perform ore classification
 
 Export filtered results to CSV & Excel
 
